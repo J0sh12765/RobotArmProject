@@ -16,6 +16,7 @@ This project allowed me to develop my mechanical design skills, alongside learni
 
 <p allign='centre'>
 <img src="Images/WholeArmAssembly.png" width="500">
+<img src="Images/ControlPanelLayout.png" width="500">
 <br>
 <em> Finished Arm </em>
 </p>
@@ -25,5 +26,12 @@ This project allowed me to develop my mechanical design skills, alongside learni
 <p allign='centre'>
 <img src="Images/Base.png" width="600">
 <img src="Images/BaseSchematic.png" width="500">
+<br>
+</p>
+
+<h3>Planetary Gear Box</h3>
+
+<p allign='centre'>
+<img src="Images/PlanetaryGearboxSchematic.png" width="400">
 <br>
 </p>
