@@ -15,7 +15,7 @@ This project allowed me to develop my mechanical design skills, alongside learni
 # Parts designed
 
 <p allign='centre'>
-<img src="Images/WholeArmAssembly.png" width="200">
+<img src="Images/WholeArmAssembly.png" width="500">
 <br>
 <em> Finished Arm </em>
 </p>
@@ -23,7 +23,7 @@ This project allowed me to develop my mechanical design skills, alongside learni
 <h3>Base</h3>
 
 <p allign='centre'>
-<img src="Images/Base.png" width="200">
-<img src="Images/BaseSchematic.png" width="200">
+<img src="Images/Base.png" width="600">
+<img src="Images/BaseSchematic.png" width="500">
 <br>
 </p>
