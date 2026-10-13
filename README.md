@@ -12,11 +12,10 @@ This project allowed me to develop my mechanical design skills, alongside learni
 - Python
 - C++ / Arduino IDE
 
-# Schematics
+# Parts designed
 
-
-   <p allign='centre'>
-   <img src="Images/WholeArmAssembly.png" width="200">
-   <br>
-   <em> Finished Arm </em>
+<p allign='centre'>
+<img src="Images/WholeArmAssembly.png" width="200">
+<br>
+<em> Finished Arm </em>
 </p>
