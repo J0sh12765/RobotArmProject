@@ -23,13 +23,17 @@ This project allowed me to develop my mechanical design skills, alongside learni
 
 <h3>Base</h3>
 
+The base holds the bottom servo, which controls the rotation of the whole arm. Inside this base the servo horn is attached to and drives the lower side of a sun gear, in my planetary gear box. 
+
 <p allign='centre'>
 <img src="Images/Base.png" width="300">
 <img src="Images/BaseSchematic.png" width="300">
 <br>
 </p>
 
-<h3>Planetary Gear Box</h3>
+<h3>Planetary Gear Box Mechanism</h3>
+
+This gear box includes a sun gear, 3 planet gears and an outer ring gear. This multiplies the torque of the servo by 5, allowing for easy rotation of the arm. The linkage that connects the planet gears output is connected to the under side of the base servo mount through a lazy Susan bearing.
 
 <p allign='centre'>
 <img src="Images/PlanetaryGearboxSchematic.png" width="300">
@@ -45,6 +49,8 @@ This project allowed me to develop my mechanical design skills, alongside learni
 </p>
 
 <h3>The Base Servo Mount</h3>
+
+This base holds 2 servos either side, rotating in different directions. The first linkage sits between these.
 
 <p allign='centre'>
 <img src="Images/BaseServoMount.png" width="300">
@@ -72,6 +78,8 @@ This project allowed me to develop my mechanical design skills, alongside learni
 
 <h3>The Third Linkage (Wrist) </h3>
 
+This linkage holds 2 servos, one being to point the wrist up and down, and the other on the end to rotate the claw. 
+
 <p allign='centre'>
 <img src="Images/Linkage3.png" width="300">
 <img src="Images/Linkage3(View2).png" width="300">
@@ -80,6 +88,8 @@ This project allowed me to develop my mechanical design skills, alongside learni
 </p>
 
 <h3>Claw Mechanism</h3>
+
+The claw design involves using 2 interlocking linkages that force the jaws to close together. The gear linkages use a smaller servo (SG90) compared to the rest of the arm.
 
 <p allign='centre'>
 <img src="Images/ClawAssembly(View1).png" width="300">
@@ -95,11 +105,3 @@ This project allowed me to develop my mechanical design skills, alongside learni
 <img src="Images/LegSchematic.png" width="300">
 <br>
 </p>
-
-<h3>Planetary Gear Box Mechanism</h3>
-
-<p allign='centre'>
-<img src="Images/PlanetaryGearboxSchematic.png" width="300">
-<br>
-</p>
-
