@@ -19,6 +19,4 @@ This project allowed me to develop my mechanical design skills, alongside learni
 <img scr="Images/WholeArmAssembly.png" width="200">
 <br>
 <em> Finished Arm </em>
-
-
 </p>
