@@ -15,8 +15,8 @@ This project allowed me to develop my mechanical design skills, alongside learni
 # Complete Arm
 
 <p allign='centre'>
-<img src="Images/FinishedRobotArm.png" width="500">
-<img src="Images/ControlPanelLayout.png" width="500">
+<img src="Images/FinishedRobotArm.png" width="350">
+<img src="Images/ControlPanelLayout.png" width="400">
 <br>
 <em> Finished Arm </em>
 </p>
@@ -24,7 +24,7 @@ This project allowed me to develop my mechanical design skills, alongside learni
 # Parts designed
 
 <p allign='centre'>
-<img src="Images/WholeArmAssembly.png" width="500">
+<img src="Images/WholeArmAssembly.png" width="400">
 <br>
 <em> Finished Arm </em>
 </p>
