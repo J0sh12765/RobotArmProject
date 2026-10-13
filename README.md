@@ -118,4 +118,5 @@ The claw design involves using 2 interlocking linkages that force the jaws to cl
 <br>
 </p>
 
-# 
+# Python code
+
