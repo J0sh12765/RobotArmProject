@@ -60,6 +60,8 @@ This base holds 2 servos either side, rotating in different directions. The firs
 
 <h3>The First Linkage</h3>
 
+The first linkage rotates from the base servo pair.
+
 <p allign='centre'>
 <img src="Images/Linkage1(View1).png" width="300">
 <img src="Images/Linkage1(View2).png" width="300">
@@ -68,6 +70,8 @@ This base holds 2 servos either side, rotating in different directions. The firs
 </p>
 
 <h3>The Second Linkage</h3>
+
+The second linkage is driven by a servo connected to the first linkage. On the other side there is a bearing that allows for smooth rotation around that axis.
 
 <p allign='centre'>
 <img src="Images/Linkage2(View1).png" width="300">
@@ -78,7 +82,7 @@ This base holds 2 servos either side, rotating in different directions. The firs
 
 <h3>The Third Linkage (Wrist) </h3>
 
-This linkage holds 2 servos, one being to point the wrist up and down, and the other on the end to rotate the claw. 
+This linkage holds 2 servos, one being to point the wrist up and down, and the other on the end to rotate the claw. There is also a bearing on the other side of the wrist. 
 
 <p allign='centre'>
 <img src="Images/Linkage3.png" width="300">
