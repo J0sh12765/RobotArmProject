@@ -46,13 +46,26 @@ This project allowed me to develop my mechanical design skills, alongside learni
 
 <h3>The Base Servo Mount</h3>
 
+<p allign='centre'>
+<img src="Images/BaseServoMount.png" width="400">
+<img src="Images/BaseServoMountSchematics.png" width="400">
+<br>
+</p>
 
 <h3>The First Linkage</h3>
 
 <p allign='centre'>
-<img src="Images/Linkage1(View1).png" width="600">
-<img src="Images/Linkage1(View2).png" width="500">
-<img src="Images/Linkage1Schematics.png" width="500">
+<img src="Images/Linkage1(View1).png" width="400">
+<img src="Images/Linkage1(View2).png" width="400">
+<img src="Images/Linkage1Schematics.png" width="400">
+<br>
+</p>
 
+<h3>The Second Linkage</h3>
+
+<p allign='centre'>
+<img src="Images/Linkage2(View1).png" width="400">
+<img src="Images/Linkage2(View2).png" width="400">
+<img src="Images/Linkage2Schematics.png" width="400">
 <br>
 </p>
