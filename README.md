@@ -15,7 +15,8 @@ This project allowed me to develop my mechanical design skills, alongside learni
 # Schematics
 
 
-<p allign='centre'>
-<img scr="Images/WholeArmAssembly.png" width="200">
-<em> Finished Arm </em>
+   <p allign='centre'>
+   <img scr="Images/WholeArmAssembly.png" width="200">
+   <br>
+   <em> Finished Arm </em>
 </p>
