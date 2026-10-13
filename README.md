@@ -12,11 +12,19 @@ This project allowed me to develop my mechanical design skills, alongside learni
 - Python
 - C++ / Arduino IDE
 
+# Complete Arm
+
+<p allign='centre'>
+<img src="Images/FinishedRobotArm.png" width="500">
+<img src="Images/ControlPanelLayout.png" width="500">
+<br>
+<em> Finished Arm </em>
+</p>
+
 # Parts designed
 
 <p allign='centre'>
 <img src="Images/WholeArmAssembly.png" width="500">
-<img src="Images/ControlPanelLayout.png" width="500">
 <br>
 <em> Finished Arm </em>
 </p>
@@ -109,3 +117,5 @@ The claw design involves using 2 interlocking linkages that force the jaws to cl
 <img src="Images/LegSchematic.png" width="300">
 <br>
 </p>
+
+# 
