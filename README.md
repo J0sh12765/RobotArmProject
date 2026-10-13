@@ -35,3 +35,24 @@ This project allowed me to develop my mechanical design skills, alongside learni
 <img src="Images/PlanetaryGearboxSchematic.png" width="400">
 <br>
 </p>
+
+<h3>Gear Box Lid</h3>
+
+<p allign='centre'>
+<img src="Images/PlanetaryGearBoxCap.png" width="600">
+<img src="Images/PlanetaryGearBoxSchematic.png" width="500">
+<br>
+</p>
+
+<h3>The Base Servo Mount</h3>
+
+
+<h3>The First Linkage</h3>
+
+<p allign='centre'>
+<img src="Images/Linkage1(View1).png" width="600">
+<img src="Images/Linkage1(View2).png" width="500">
+<img src="Images/Linkage1Schematics.png" width="500">
+
+<br>
+</p>
