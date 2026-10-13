@@ -48,7 +48,7 @@ This project allowed me to develop my mechanical design skills, alongside learni
 
 <p allign='centre'>
 <img src="Images/BaseServoMount.png" width="300">
-<img src="Images/BaseServoMountSchematics.png" width="300">
+<img src="Images/BaseServoMountSchemetics.png" width="300">
 <br>
 </p>
 
