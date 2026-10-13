@@ -19,3 +19,11 @@ This project allowed me to develop my mechanical design skills, alongside learni
 <br>
 <em> Finished Arm </em>
 </p>
+
+<h3>Base</h3>
+
+<p allign='centre'>
+<img src="Images/Base.png" width="200">
+<img src="Images/BaseSchematic.png" width="200">
+<br>
+</p>
