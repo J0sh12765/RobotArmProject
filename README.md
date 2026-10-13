@@ -66,6 +66,15 @@ This project allowed me to develop my mechanical design skills, alongside learni
 <p allign='centre'>
 <img src="Images/Linkage2(View1).png" width="400">
 <img src="Images/Linkage2(View2).png" width="400">
-<img src="Images/Linkage2Schematics.png" width="400">
+<img src="Images/Linkage2Schematic.png" width="400">
+<br>
+</p>
+
+<h3>The Third Linkage (Wrist) </h3>
+
+<p allign='centre'>
+<img src="Images/Linkage3.png" width="400">
+<img src="Images/Linkage3(View2).png" width="400">
+<img src="Images/Linkage3Schematic.png" width="400">
 <br>
 </p>
