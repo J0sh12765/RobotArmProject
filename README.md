@@ -78,3 +78,28 @@ This project allowed me to develop my mechanical design skills, alongside learni
 <img src="Images/Linkage3Schematic.png" width="300">
 <br>
 </p>
+
+<h3>Claw Mechanism</h3>
+
+<p allign='centre'>
+<img src="Images/ClawAssembly(View1).png" width="300">
+<img src="Images/ClawAssembly(View2).png" width="300">
+<img src="Images/ClawAssemblySchematic.png" width="300">
+<br>
+</p>
+
+<h3>Leg</h3>
+
+<p allign='centre'>
+<img src="Images/Leg.png" width="300">
+<img src="Images/LegSchematic.png" width="300">
+<br>
+</p>
+
+<h3>Planetary Gear Box Mechanism</h3>
+
+<p allign='centre'>
+<img src="Images/PlanetaryGearboxSchematic.png" width="300">
+<br>
+</p>
+
